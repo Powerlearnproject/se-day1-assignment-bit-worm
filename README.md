@@ -32,6 +32,12 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+It is the craft of creating prompts that will enable you to get the best response from an AI with the exact answer/information that you need.
+It is important because:
+  1. You will get exactly what you need from the AI.
+  2. It saves time because you get a perfect answer after the prompt.
+  3. Minimizes AI errors because AIs aren't perfect and with a good prompt these errors are minimal.
+  4. It will make using AI seem easy and satisfying.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
