@@ -6,9 +6,9 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-A software engineere is someone who develops software solutions i.e apps and programs to help solve real world problems using computers.
+-> A software engineere is someone who develops software solutions i.e apps and programs to help solve real world problems using computers.
 
-They are important in providing simple to use and reliable software to help professionals and other users accomplish their tasks and solve their problems.
+-> They are important in providing simple to use and reliable software to help professionals and other users accomplish their tasks and solve their problems.
 They design, build and maintain their softwares to ensure smooth day to day activities. Example, the M-pesa software was developed by a software engineer and is
 used by a wide range of users to perform daily money transactions in a fast, reliable and easy way.
 
@@ -30,6 +30,19 @@ Cloud also allows developers to colaborate on the same project from different lo
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+1. Planning - This is where you come up with the idea, you look for investors and support.
+You determine the cost, determine the requirements, predict how long the development process will take.
+
+2. Analysis and Design - After coming up with the idea and gathering the requremints, you start an analysis to determine how the development will be done, how many teams will be required, the model that will be used. Then the system is designed with the information from the analysis team and development can begin.
+
+3. Coding - After the analysis, design and determining the development process, the software development begins. This is where the designed system starts coming to life as developers create it.
+
+4. Testing - After development, the software is tested and errors are solved. If it doesn't meet all the user requirements, more features are added.
+
+5. Implementation - After the developers and testers are satisfied with the system, implimantaion begins. Differrent deployment methods can be used to implent the system, the include; parallel changeover, direct changeover, pilot changeover e.t.c
+
+6. Maintanance - Once the system is up and running, it is monitored and incase of any errors, developers are called for maintanance. Also if the user requires new updates, the developers will scale the system accordingly.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
